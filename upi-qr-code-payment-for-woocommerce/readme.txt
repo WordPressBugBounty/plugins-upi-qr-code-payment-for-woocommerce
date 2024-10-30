@@ -2,8 +2,8 @@
 Contributors: knitpay, gautammkgarg, infosatech
 Tags: upi, upi payment, woocommerce, qr code, bhim upi
 Requires at least: 4.6
-Tested up to: 6.5
-Stable tag: 1.4.5
+Tested up to: 6.7
+Stable tag: 1.4.6
 Requires PHP: 5.6
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
@@ -104,6 +104,11 @@ Post detailed information about the issue in the [support forum](https://wordpre
 == Changelog ==
 
 If you like UPI QR Code Payment Gateway for WooCommerce, please take a moment to [give a 5-star rating](https://wordpress.org/support/plugin/upi-qr-code-payment-for-woocommerce/reviews/?rate=5#new-post). It helps to keep development and support going strong. Thank you!
+
+= 1.4.6 =
+Release Date: Oct 30, 2024
+
+* [Show error if same transaction id gets used again.](https://wordpress.org/support/topic/same-transaction-id-can-be-used-for-multiple-orders/)
 
 = 1.4.4 =
 Release Date: March 14, 2024
